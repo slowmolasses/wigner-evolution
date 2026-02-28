@@ -1,6 +1,6 @@
 # Quantum Phase-Space Visualization Toolkit (MATLAB)
 
-A MATLAB toolkit for visualizing quantum states in phase space using the Wigner quasi-probability distribution. Covers the quantum harmonic oscillator (QHO), squeezed states, anharmonic oscillator dynamics, and approximate Gootesman-Preskil-Kitaev (GKP) states — including the formation of negative-valued Wigner functions that signal genuine non-classical behavior.
+A MATLAB toolkit for visualizing quantum states in phase space using the Wigner quasi-probability distribution. Covers the quantum harmonic oscillator (QHO), squeezed states, anharmonic oscillator dynamics, and approximate Gottesman-Kitaev-Preskil (GKP) states — including the formation of negative-valued Wigner functions that signal genuine non-classical behavior.
 
 ![Wigner function of a displaced Gaussian state reviving after anharmonic evolution at ωt=154](dissolveevolved_QUANHA.png)
 
